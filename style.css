@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+#button{
+    border-radius: 15px;
+}
+
+.second_div{
+    background: linear-gradient(rgb(255, 255, 255) 10%,rgb(0, 136, 255) 70%, rgb(8, 12, 120) 100%);
+    float: right;
+    height: 100%;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 25%;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+
+}
